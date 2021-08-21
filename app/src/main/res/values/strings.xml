@@ -1,0 +1,13 @@
+<resources>
+    <string name="url">https://randomuser.me/api/?results=10</string>
+    <string name="app_name">My Friends</string>
+    <string name="name">ANDRES BECERRA</string>
+    <string name="email">andres@gmail.com</string>
+    <string name="cell">312 3795634</string>
+    <string name="country">Colombia</string>
+    <string name="state">Atlantico</string>
+    <string name="city">Barranquilla</string>
+    <string name="address">Cll 116 No 42C-80</string>
+    <string name="image_description">image_description</string>
+    <string name="title">My Friends</string>
+</resources>
